@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+motor
+redis
+
+# i need to specify versions and why

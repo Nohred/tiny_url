@@ -1,0 +1,8 @@
+:root { font-family: system-ui, Arial, sans-serif; }
+.container { max-width: 720px; margin: 40px auto; padding: 0 16px; }
+.form { display: flex; gap: 10px; margin-top: 12px; }
+input { flex: 1; padding: 10px; font-size: 16px; }
+button { padding: 10px 14px; }
+.error { color: crimson; margin-top: 12px; }
+.result { margin-top: 16px; }
+.muted { opacity: 0.75; font-size: 14px; margin-top: 6px; }
