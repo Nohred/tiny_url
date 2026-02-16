@@ -1,3 +1,5 @@
 /structure.py
 /frontend/node_modules
 /cleanup.sh
+backend/.env
+frontend/.env
